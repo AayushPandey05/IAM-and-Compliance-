@@ -1,6 +1,7 @@
 # IAM-and-Compliance-
 
-![IAM & Compliance](https://images.unsplash.com/photo-1633416959302-bdd338176ed4?fit=crop&w=1200&q=80)
+![IAM & Compliance](https://raw.githubusercontent.com/AayushPandey05/IAM-and-Compliance-/main/Iam_img.jpg)
+
 
 **IAM-Driven Compliance Framework for SOC 2 & ISO 27001**
 
