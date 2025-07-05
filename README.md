@@ -1,6 +1,6 @@
 # IAM-and-Compliance-
 
-![IAM Diagram](https://upload.wikimedia.org/wikipedia/commons/4/4a/IAM_Workflow_Diagram.png)
+![IAM & Compliance](https://images.unsplash.com/photo-1633416959302-bdd338176ed4?fit=crop&w=1200&q=80)
 
 **IAM-Driven Compliance Framework for SOC 2 & ISO 27001**
 
