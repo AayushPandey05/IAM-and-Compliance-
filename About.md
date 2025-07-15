@@ -63,5 +63,4 @@ This framework reinforces the critical role of IAM in achieving and maintaining 
 
 ---
 
-✍️ **Author**: *Aayush Pandey*  
-📬 *Let's connect to discuss IAM and compliance solutions!*
+✍️ **Author**: *Aayush Pandey*
