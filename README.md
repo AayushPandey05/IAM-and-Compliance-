@@ -1,19 +1,35 @@
-# IAM-and-Compliance-
 
-![IAM & Compliance](https://raw.githubusercontent.com/AayushPandey05/IAM-and-Compliance-/main/Iam_img.jpg)
+# Real-Time-Food-Delivery-System-AWS
 
+![AWS Architecture Diagram](https://raw.githubusercontent.com/yourusername/Real-Time-Food-Delivery-System-AWS/main/aws_Img.jgg)
 
-**IAM-Driven Compliance Framework for SOC 2 & ISO 27001**
+**Real-Time Food Delivery System Using AWS Cloud Services**
 
-This project outlines how Identity and Access Management (IAM) can be the foundation for achieving compliance with standards like SOC 2 and ISO 27001. It focuses on implementing secure access controls, audit trails, user provisioning, and monitoring as core compliance pillars.
+This project provides a scalable, secure, and cost-effective AWS-based infrastructure for a real-time food delivery platform. It handles dynamic traffic spikes, enables real-time order tracking, and leverages advanced analytics for delivery optimization.
 
 ## 🔐 Key Features
 
-- Role-based Access Control (RBAC)
-- SSO, MFA, and Just-in-Time provisioning
-- Audit logging and user activity tracking
-- Mapping IAM policies to compliance controls
-- Support for SOC 2 & ISO 27001 frameworks
+- Dynamic scaling using AWS Auto Scaling  
+- Real-time event streaming with Amazon MSK (Kafka)  
+- Serverless notifications and processing via AWS Lambda  
+- Container-based microservices hosted on Amazon EC2  
+- Caching layer with Amazon ElastiCache (Redis)  
+- Static asset hosting and CDN with Amazon S3 & CloudFront  
+- Secure identity and access management with AWS IAM  
+- Centralized monitoring and alerts via Amazon CloudWatch  
+- Cost optimization through serverless and auto-scaling strategies  
 
 ## 📁 Structure
 
+```
+.
+├── architecture-diagram.png       # Visual representation of AWS architecture
+├── lambda-functions/              # Serverless Lambda code for event processing
+├── ec2-services/                  # Dockerized microservices for backend
+├── ms_kafka_setup/                # Amazon MSK configuration files
+├── caching_redis/                 # ElastiCache (Redis) setup scripts
+├── s3_cloudfront/                 # S3 bucket & CloudFront distribution configs
+├── cloudwatch_dashboard/          # CloudWatch dashboard and alarm definitions
+├── iam_policies/                  # IAM roles and policy JSON files
+└── README.md                      # Project overview and documentation
+```
